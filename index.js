@@ -1,9 +1,9 @@
 function avginArrays(arr) {
-    let sum = 0
+    let jah = 0;
     for (let i = 0; i < arr.length; i++) {
-        sum += arr[i]
+        jah += arr[i];
     }
-    return sum / arr.length
+    return jah / arr.length;
 }
 
 // create and declare function 
